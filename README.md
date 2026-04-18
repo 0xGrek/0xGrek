@@ -50,12 +50,12 @@ Permanent contract in Lisbon since June 2025. Building tools that run in product
 
 | Project | Description | Stack | Scale |
 |---|---|---|---|
-| **[TON Gift Flipper](https://0xgrek.com/projects/ton-gift-flipper)** | Multi-agent NFT trading system — 4 parallel bots, 6 marketplace APIs, live 24/7 on TON blockchain | Python · asyncio · Pyrogram · TON API | **115K LOC** · 400+ sessions |
-| **[Crypto Tools 101](https://0xgrek.com/projects/crypto-tools-101)** | Complete automation toolkit for crypto: 9 CEX exchanges, multi-chain wallet ops, DEX farmers, airdrop claimers | Python · ccxt · web3.py · asyncio | **101 tools** · 10+ chains |
-| **[AI Knowledge Orchestrator](https://0xgrek.com/projects/ai-knowledge-orchestrator)** | Multi-agent AI system — 11 specialized agents, auto-routing, per-agent memory wiki, cross-agent sync | Python · Claude Code · MCP · asyncio | **11 agents** · 130+ files |
-| **[On-Chain Wallet Monitor](https://0xgrek.com/projects/onchain-wallet-monitor)** | Async wallet monitoring — 35 wallets, real-time Telegram alerts, smart money tracking | Python · asyncio · Etherscan API · Solana RPC | **35 wallets** · 3 chains |
-| **[Portugal Realty](https://0xgrek.com/projects/portugal-realty)** | Real estate aggregator — 4 portals, fraud detection, 12K+ listings, 2026 IMT tax calculator | Python · Flask · PostgreSQL · httpx | **12K+ listings** · 554 frauds |
-| **[Mafia Game PWA](https://0xgrek.com/projects/mafia-game-pwa)** | Multiplayer host controller — 17 roles, Monte Carlo balance simulator, cloud sync | React 19 · TypeScript · Zustand · Supabase | **10K LOC** · 17 roles |
+| **[TON Gift Flipper](https://0xgrek.com)** | Multi-agent NFT trading system — 4 parallel bots, 6 marketplace APIs, live 24/7 on TON blockchain | Python · asyncio · Pyrogram · TON API | **115K LOC** · 400+ sessions |
+| **[Crypto Tools 101](https://0xgrek.com)** | Complete automation toolkit for crypto: 9 CEX exchanges, multi-chain wallet ops, DEX farmers, airdrop claimers | Python · ccxt · web3.py · asyncio | **101 tools** · 10+ chains |
+| **[AI Knowledge Orchestrator](https://0xgrek.com)** | Multi-agent AI system — 11 specialized agents, auto-routing, per-agent memory wiki, cross-agent sync | Python · Claude Code · MCP · asyncio | **11 agents** · 130+ files |
+| **[On-Chain Wallet Monitor](https://0xgrek.com)** | Async wallet monitoring — 35 wallets, real-time Telegram alerts, smart money tracking | Python · asyncio · Etherscan API · Solana RPC | **35 wallets** · 3 chains |
+| **[Portugal Realty](https://portugal-realty-server.onrender.com/)** | Real estate aggregator — 4 portals, fraud detection, 12K+ listings, 2026 IMT tax calculator | Python · Flask · PostgreSQL · httpx | **12K+ listings** · 554 frauds |
+| **[Mafia Game PWA](https://app-gold-seven-83.vercel.app/)** | Multiplayer host controller — 17 roles, Monte Carlo balance simulator, cloud sync | React 19 · TypeScript · Zustand · Supabase | **10K LOC** · 17 roles |
 
 ---
 
