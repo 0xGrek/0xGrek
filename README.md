@@ -34,7 +34,3 @@ Lisbon, Portugal
 
 Main public repositories are pinned below. Some repos are public snapshots or work-in-progress indexes; the portfolio is the best entry point.
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=0xGrek&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=888888&text_color=888888" alt="GitHub stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xGrek&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888" alt="Top languages" />
-</div>
